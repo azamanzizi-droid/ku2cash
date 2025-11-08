@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Pengurusan Kutu",
+  "description": "A web application to record and manage weekly 'kutu' payments for a group of 50 members. It features payment tracking, a member list, and a payout schedule.",
+  "requestFramePermissions": []
+}
